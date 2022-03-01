@@ -1,4 +1,4 @@
-# **Smartphone 3D Imaging Smartphone 3D Imaging for Supporting Crop Analytics**
+# **Smartphone 3D Imaging for Supporting Crop Analytics**
 ---
 This repository contains implementation of Smartphone 3D Imaging Smartphone 3D Imaging for Supporting Crop Analytics.
 
